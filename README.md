@@ -1,4 +1,4 @@
-# Fullstack Developer | Branif Systems Engineer
+# Java Fullstack Developer | 
 <a href="https://github.com/jstrieb/github-stats" align="left">
 
 <!-- ![](https://github.com/Gjonathan252/GitHub-Stats-Visualization/blob/master/generated/overview.svg) -->
