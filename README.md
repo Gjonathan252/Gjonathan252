@@ -1,5 +1,5 @@
 # Fullstack Developer | Branif Systems Engineer
-<a href="https://github.com/jstrieb/github-stats" align="center">
+<a href="https://github.com/jstrieb/github-stats" align="left">
 
 <!-- ![](https://github.com/Gjonathan252/GitHub-Stats-Visualization/blob/master/generated/overview.svg) -->
 ![](https://github.com/Gjonathan252/GitHub-Stats-Visualization/blob/master/generated/languages.svg)
