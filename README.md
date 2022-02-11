@@ -1,4 +1,4 @@
-<h1>Hello, I'm Jonathan aka alpha I am a Java Fullstack Developer👋</h1>
+<h1 align="center">Hello, I'm Jonathan aka alpha I am a Java Fullstack Developer👋</h1>
 <!-- GitHub Visual Stats -->
 <a href="https://github.com/jstrieb/github-stats" align="center">
 
